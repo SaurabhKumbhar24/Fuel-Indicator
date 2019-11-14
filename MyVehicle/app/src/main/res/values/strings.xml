@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Vehicle</string>
+    <string name="pick_your_vehicle">Pick Your Vehicle</string>
+    <string name="my_bike">My Bike</string>
+    <string name="my_car">My Car</string>
+    <string name="vehicle">Vehicle</string>
+    <string name="pick_your_vehicle1">pick your vehicle</string>
+    <string name="missing">Missing</string>
+    <string name="milege">MILEGE</string>
+    <string name="volume">VOLUME</string>
+    <string name="locate">LOCATE</string>
+    <string name="water_level">WATER LEVEL</string>
+    <string name="speed">SPEED</string>
+    <string name="distance">DISTANCE</string>
+    <string name="history">HISTORY</string>
+    <string name="milege1">Milege</string>
+    <string name="volume1">VOLUME</string>
+    <string name="waterl">WATER</string>
+    <string name="lev">LEVEL</string>
+</resources>
